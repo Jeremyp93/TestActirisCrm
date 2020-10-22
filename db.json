@@ -1,9 +1,9 @@
 {
-  "data": {
+  "data": [
     {
       "nbrOffresParEmployeur": 0,
       "nbrOffresParAgent": 0,
       "nbrTotal": 0,
     }
-  }
+  ]
 }
