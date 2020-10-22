@@ -1,9 +1,8 @@
 {
-  "data": [
+  "posts": [
     {
-      "nbrOffresParEmployeur": 0,
-      "nbrOffresParAgent": 0,
-      "nbrTotal": 0,
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
