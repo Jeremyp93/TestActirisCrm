@@ -1,8 +1,9 @@
 {
-  "nbrOffresParEmployeur": 0,
-  "nbrOffresParAgent": 0,
-  "nbrTotal": 0,
-  "errors": [
-    "ORA-06550: Ligne 1, colonne 23 :\nPLS-00201: l'identificateur 'PCK$CRM_TIERS.NBROFFRESPAREMPLOYEUR' doit être déclaré\nORA-06550: Ligne 1, colonne 7 :\nPL/SQL: Statement ignored"
-  ]
+  "data": {
+    {
+      "nbrOffresParEmployeur": 0,
+      "nbrOffresParAgent": 0,
+      "nbrTotal": 0,
+    }
+  }
 }
